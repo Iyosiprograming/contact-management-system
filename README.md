@@ -33,5 +33,3 @@ Menu options in the program:
 * `contact.py` → functions to add, delete, search, and list contacts
 * `main.py` → main program that runs the menu
 
-Do you want me to do that?
-```
